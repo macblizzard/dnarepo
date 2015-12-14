@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="repository.dnarepo" name="dna Repository" version="0.0.2" provider-name="dna">
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>dna Repository</summary>
+		<description>Download and install add-ons from dna repository.</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<email>dna.mailbox@gmail.com</email>
+	</extension>
+</addon>
+
 <addon id="script.dnatvguide" name="dnaTV Guide" version="0.0.20" provider-name="dna">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
