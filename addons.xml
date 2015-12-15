@@ -31,7 +31,7 @@
 
 <addon id="service.rytecepgdownloader" 
     name="Rytec EPG Downloader"
-    version="0.6.1"
+    version="0.6.2"
     provider-name="Jin">
 	<requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -49,7 +49,7 @@
 
 <addon
   id="pvr.iptvsimple"
-  version="1.11.6"
+  version="1.11.7"
   name="PVR IPTV Simple Client"
   provider-name="nightik">
 	<requires>

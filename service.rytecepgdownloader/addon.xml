@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="service.rytecepgdownloader" 
     name="Rytec EPG Downloader"
-    version="0.6.1"
+    version="0.6.2"
     provider-name="Jin">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
