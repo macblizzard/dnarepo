@@ -8,4 +8,6 @@ Use this with rytecepgdownloader Addon to grab the required EPG.
 
 Credit goes to http://www.iptvsaga.com/ for the configuration guide. :)
 
+![alt tag](https://github.com/macblizzard/dnarepo/blob/master/pvr.iptvsimple/screenshot.jpg)
+
 Enjoy. :)
