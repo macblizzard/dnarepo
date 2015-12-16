@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="script.dnatvguide" name="dnaTV Guide" version="0.0.20" provider-name="dna">
+<addon id="script.dnatvguide" name="dnaTV Guide" version="0.0.30" provider-name="dna">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>executable</provides>
 	</extension>
