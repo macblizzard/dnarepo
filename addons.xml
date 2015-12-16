@@ -43,6 +43,21 @@
   </extension>
 </addon>
 
+<addon id="script.iptvkingguide" name="The King TV Guide" version="1.0" provider-name="The King">
+	<extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">IPTV King TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<description lang="be">IPTV King TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<disclaimer lang="en">IPTV King TV Guide is based on Renegades TV Guide by Renegades Team and FTV Guide by Bluezed and RayW1986, which is based on the original TV Guide addon by twinther.</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<website>theking.servebeer.com</website>
+	</extension>
+</addon>
+
 <addon id="service.rytecepgdownloader" 
     name="Rytec EPG Downloader"
     version="0.6.2"
