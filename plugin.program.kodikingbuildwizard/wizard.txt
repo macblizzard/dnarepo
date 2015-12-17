@@ -1,0 +1,46 @@
+
+name="Nebula King UPDATE"
+url="https://github.com/macblizzard/dnarepo/blob/master/zips/kingbuild_update.zip"
+img="https://archive.org/download/evansataz_msn_Icon_201512/icon.png"
+fanart="https://archive.org/download/screenshot000_201512/screenshot000.png"
+description="Nebula build by The King - BEST OF THE BEST  includes:  2 fully working iptv guides iVue TV Guide and Renegades TV Guide. ALL Channels already linked for you!. On demand brought to you by Genesis and S.A.L.T.S. and are preconfigured for you so all you have to do is Just bring up context menu (optons) for a Movie or TV Show in Genesis or S.A.L.T.S and select ADD TO LIBRARY and Kodi will do the rest for you and NEVER have to download anyting again! If you are looking for a build with IPTV or On Demand then LOOK NO FURTHER! Works on any device even on Fire Stick. Join us on facebook @  The King build for kodi"
+
+
+name="Nebula King"
+url="https://archive.org/download/evansataz_msn_Kodi_20151115/Kodi.zip"
+img="https://archive.org/download/evansataz_msn_Icon_201512/icon.png"
+fanart="https://archive.org/download/screenshot000_201512/screenshot000.png"
+description="Nebula build by The King - BEST OF THE BEST  includes:  2 fully working iptv guides iVue TV Guide and Renegades TV Guide. ALL Channels already linked for you!. On demand brought to you by Genesis and S.A.L.T.S. and are preconfigured for you so all you have to do is Just bring up context menu (optons) for a Movie or TV Show in Genesis or S.A.L.T.S and select ADD TO LIBRARY and Kodi will do the rest for you and NEVER have to download anyting again! If you are looking for a build with IPTV or On Demand then LOOK NO FURTHER! Works on any device even on Fire Stick. Join us on facebook @  The King build for kodi"
+
+
+name="Titan King"
+url="https://archive.org/download/evansataz_msn_Kodi_201512/Kodi.zip"
+img="https://archive.org/download/evansataz_msn_Icon_20151206/icon.png"
+fanart="https://archive.org/download/OnDemand/on%20demand.png"
+description="i did all the hard work for you and its all right here!! I tried to keep it simple yet robust at same time.The King is loaded with addons that will give you Movies, TV shows, and Music on demand as well as LIVE TV featurinig guides like iVUE TV Guide and Renegades so you know what is on each channel. If you are into Tv shows, Movies, Music live or demand and have your library setup, i think you will enjoy The King Build!  Join us on facebook @  The King build for kodi"
+
+name="Black Glass King IPTV Guide Special"
+url="https://archive.org/download/evansataz_msn_Kodi_20151121/Kodi.zip"
+img="https://archive.org/download/evansataz_msn_Icon_20151206_2022/icon.png"
+fanart="https://archive.org/download/fanart_20151206_2026/fanart.jpg"
+description="This build is IPTV King showcase build. Built to keep as small as possible yet all the repositories were also kept so you can install any addon that is available, just go to install from repository in the addon browser"
+
+
+name="Nebula King gui fix"
+url="https://archive.org/download/NebulaGuifix_20151119/NebulaGuifix.zip"
+img="https://archive.org/download/splash_20151108/splash.png"
+fanart="https://archive.org/download/evansataz_msn_Home/Home.png"
+description="fix for if skin gets lost on crash or didnt stick on install"
+
+name="Advanced settings patch"
+url="https://archive.org/download/Advancedsettings_201512/Advancedsettings.zip"
+img="https://archive.org/download/splash_20151108/splash.png"
+fanart="https://archive.org/download/screenshot001_201512/screenshot001.png"
+description="Advanced settings for less to no buffering on ANY device"
+
+
+name="THE KING TV GUIDE and Stalker clone Triple Play"
+url="https://archive.org/download/StalkerCloneTriplePlay_201512/StalkerCloneTriplePlay.zip"
+img="https://archive.org/download/splash_20151108/splash.png"
+fanart="https://archive.org/download/screenshot001_201512/screenshot001.png"
+description="3 of the best working iptv stalker clones as well as itpv guides ALL IN ONE!!"
