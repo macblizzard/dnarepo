@@ -43,6 +43,21 @@
   </extension>
 </addon>
 
+<addon id="plugin.program.kingbuildupdate" name="King Build UPDATE" version="1.0" provider-name="The King">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">King Build UPDATE</summary>
+    <description lang="en">King Build UPDATE</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="script.iptvkingguide" name="The King TV Guide" version="1.0" provider-name="The King">
 	<extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
