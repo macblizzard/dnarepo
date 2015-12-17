@@ -1,2 +1,16 @@
-import xbmc
-xbmc.executebuiltin("RunAddon(plugin.program.kingbuildupdate)")
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import sys
+import xbmc, xbmcgui
+
+def start_king_service():
+    xbmc.executebuiltin("RunAddon(plugin.program.kingbuildupdate)")
+def service():
+    while (not xbmc.abortRequested):
+        if not (xbmc.Player().isPlaying() or xbmc.getCondVisibility('Library.IsScanningVideo')):
+            if common.download_allowed(a):
+                if not common.blocked(a):
+                    start_king_service()
+            a = True
+        xbmc.sleep(1000)
+	
