@@ -11,6 +11,5 @@ def service():
             if common.download_allowed(a):
                 if not common.blocked(a):
                     start_king_service()
-            a = True
         xbmc.sleep(1000)
 	
