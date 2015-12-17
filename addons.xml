@@ -58,6 +58,19 @@
 	</extension>
 </addon>
 
+<addon id="service.kingbuildupdate" name="King Build UPDATE Available | Please go to PROGRAMS > KING BUILD WIZARD and UPDATE KING BUILD" version="1.3" provider-name="The King">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">King Build UPDATE</summary>
+    <description lang="en">King Build UPDATE</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="skin.nebulaking" version="3.5.1" name="Nebula King Mod" provider-name="Tgx">
     <requires>
         <import addon="xbmc.gui" version="5.9.0"/>
