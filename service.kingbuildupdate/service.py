@@ -4,7 +4,7 @@ import sys
 import xbmc, xbmcgui
 
 def start_king_service():
-    xbmc.executebuiltin("RunAddon(plugin.program.kingbuildupdate)")
+    xbmc.executebuiltin("RunAddon(service.kingbuildupdate)")
 def service():
     while (not xbmc.abortRequested):
         if not (xbmc.Player().isPlaying() or xbmc.getCondVisibility('Library.IsScanningVideo')):
