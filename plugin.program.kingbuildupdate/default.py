@@ -14,7 +14,7 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/
 base='theking.servebeer.com'
 ADDON=xbmcaddon.Addon(id='plugin.program.kingbuildupdate')
 dialog = xbmcgui.Dialog()    
-VERSION = "1.0"
+VERSION = "1.1"
 PATH = "kingbuildupdate"            
 
     
