@@ -1,5 +1,5 @@
 
-name="Nebula King UPDATE"
+name="UPDATE"
 url="https://github.com/macblizzard/dnarepo/raw/master/zips/kingbuild_update.zip"
 img="https://archive.org/download/evansataz_msn_Icon_201512/icon.png"
 fanart="https://archive.org/download/screenshot000_201512/screenshot000.png"
