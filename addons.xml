@@ -227,7 +227,7 @@
 
 <addon id="plugin.video.ufo"
        name="[COLOR lightgreen]UFO[/COLOR]"
-       version="2.0"
+       version="2.0.0"
        provider-name="krAz">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
