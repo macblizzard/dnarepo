@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.dnarepo" name="[COLOR blue]dna[/COLOR] [COLOR white]Repository[/COLOR]" version="0.0.3" provider-name="dna">
+<addon id="repository.dnarepo" name="[COLOR lightblue]dna[/COLOR] [COLOR lightwhite]Repository[/COLOR]" version="0.0.4" provider-name="dna">
 	<extension point="xbmc.addon.repository" name="dna Repository">
 		<info compressed="false">http://raw.github.com/macblizzard/dnarepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/macblizzard/dnarepo/master/addons.xml.md5</checksum>
@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="script.dnatvguide" name="[COLOR blue]dnaTV[/COLOR] [COLOR white]Guide[/COLOR]" version="0.0.40" provider-name="dna">
+<addon id="script.dnatvguide" name="[COLOR lightblue]dnaTV[/COLOR] [COLOR lightwhite]Guide[/COLOR]" version="0.0.50" provider-name="dna">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>executable</provides>
 	</extension>

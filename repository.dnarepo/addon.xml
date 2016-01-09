@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.dnarepo" name="[COLOR blue]dna[/COLOR] [COLOR white]Repository[/COLOR]" version="0.0.3" provider-name="dna">
+<addon id="repository.dnarepo" name="[COLOR lightblue]dna[/COLOR] [COLOR lightwhite]Repository[/COLOR]" version="0.0.4" provider-name="dna">
 	<extension point="xbmc.addon.repository" name="dna Repository">
 		<info compressed="false">http://raw.github.com/macblizzard/dnarepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/macblizzard/dnarepo/master/addons.xml.md5</checksum>
