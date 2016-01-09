@@ -1,5 +1,0 @@
-name="Nebula King UPDATE"
-url="https://archive.org/download/evansataz_msn_Kodi_20151115/Kodi.zip"
-img="https://archive.org/download/evansataz_msn_Icon_201512/icon.png"
-fanart="https://archive.org/download/screenshot000_201512/screenshot000.png"
-description="Nebula build by The King - BEST OF THE BEST  includes:  2 fully working iptv guides iVue TV Guide and Renegades TV Guide. ALL Channels already linked for you!. On demand brought to you by Genesis and S.A.L.T.S. and are preconfigured for you so all you have to do is Just bring up context menu (optons) for a Movie or TV Show in Genesis or S.A.L.T.S and select ADD TO LIBRARY and Kodi will do the rest for you and NEVER have to download anyting again! If you are looking for a build with IPTV or On Demand then LOOK NO FURTHER! Works on any device even on Fire Stick. Join us on facebook @  The King build for kodi"

@@ -1,2 +1,11 @@
+v1.9
+Finalized
+
+v1.7
+Script Overhaul
+
+v1.6
+Reset script added
+
 v1.0
 Initial Release
