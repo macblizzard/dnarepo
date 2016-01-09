@@ -5,4 +5,4 @@ dnaTV is based on FTVGuide which allows you to combine some of your favourite li
 
 Based on the original TV Guide by twinther.
 
-This repository is maintained by macblizzard.
+This repository is maintained by dna.
