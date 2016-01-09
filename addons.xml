@@ -29,6 +29,18 @@
 	</extension>
 </addon>
 
+<addon id="service.kingbuildupdate" name="[COLOR darkorange]King Build UPDATE Service[/COLOR]" version="2.0" provider-name="dna">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">King Build UPDATE</summary>
+    <description lang="en">King Build UPDATE Service</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="skin.nebulaking" version="3.5.1" name="Nebula King Mod" provider-name="Tgx">
     <requires>
         <import addon="xbmc.gui" version="5.9.0"/>
