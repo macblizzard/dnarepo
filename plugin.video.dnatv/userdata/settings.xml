@@ -727,7 +727,7 @@
 
     
     
-    <setting id="portal_name_1" value="ENTER DNA TV"/>
+    <setting id="portal_name_1" value="DNA TV"/>
     <setting id="portal_url_1" value="http://mw1.iptv66.tv" />
     <setting id="portal_mac_1" value="00:1A:78:71:33:37" />
 </settings>
