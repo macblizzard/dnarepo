@@ -134,7 +134,7 @@ def vodLevel():
 		data = load_channels.getVoD(portal['mac'], portal['url'], portal['serial'], addondir);
 		
 	except Exception as e:
-		xbmcgui.Dialog().notification(addonname, str, xbmcgui.NOTIFICATION_ERROR );
+		xbmcgui.Dialog().notification(addonname, str, xbmcgui.NOTIFICATION_ERROR);
 		return;
 	
 	
@@ -264,7 +264,7 @@ def playLevel():
 	
 	except Exception as e:
 		dp.close();
-		xbmcgui.Dialog().notification(addonname, str, xbmcgui.NOTIFICATION_ERROR );
+		xbmcgui.Dialog().notification(addonname, str, xbmcgui.NOTIFICATION_ERROR);
 		return;
 
 	
@@ -338,22 +338,22 @@ elif mode[0] == 'server':
 	if action == 'start':
 	
 		if server.serverOnline():
-			xbmcgui.Dialog().notification(addonname, 'Server already started.\nPort: ' + str(port), xbmcgui.NOTIFICATION_INFO );
+			xbmcgui.Dialog().notification(addonname, 'Server already started.\nPort: ' + str(port), xbmcgui.NOTIFICATION_INFO);
 		else:
 			server.startServer();
 			time.sleep(5);
 			if server.serverOnline():
-				xbmcgui.Dialog().notification(addonname, 'Server started.\nPort: ' + str(port), xbmcgui.NOTIFICATION_INFO );
+				xbmcgui.Dialog().notification(addonname, 'Server started.\nPort: ' + str(port), xbmcgui.NOTIFICATION_INFO);
 			else:
-				xbmcgui.Dialog().notification(addonname, 'Server not started. Wait one moment and try again. ', xbmcgui.NOTIFICATION_ERROR );
+				xbmcgui.Dialog().notification(addonname, 'Server not started. Wait one moment and try again. ', xbmcgui.NOTIFICATION_ERROR);
 				
 	else:
 		if server.serverOnline():
 			server.stopServer();
 			time.sleep(5);
-			xbmcgui.Dialog().notification(addonname, 'Server stopped.', xbmcgui.NOTIFICATION_INFO );
+			xbmcgui.Dialog().notification(addonname, 'Server stopped.', xbmcgui.NOTIFICATION_INFO);
 		else:
-			xbmcgui.Dialog().notification(addonname, 'Server is already stopped.', xbmcgui.NOTIFICATION_INFO );
+			xbmcgui.Dialog().notification(addonname, 'Server is already stopped.', xbmcgui.NOTIFICATION_INFO);
 			
 	dp.close();
 	
@@ -364,8 +364,7 @@ import urllib, os, xbmc, xbmcgui
 
 addon_id = 'plugin.video.stealthfree'
 data_folder = 'special://userdata/addon_data/' + addon_id
-#Url = 'http://repo-stealth.com/freefiles//'
-Url = 'http://162.243.106.105/kodi/extras/stealth/'
+Url = 'http://dnarepo.x10host.com/repo/extras/stealth-userdata/'
 File = ['http_mw1_iptv66_tv-genres', 'http_mw1_iptv66_tv', 'settings.xml']
 
 def download(url, dest, dp = None):
