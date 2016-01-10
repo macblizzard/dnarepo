@@ -1,0 +1,17 @@
+{ "version" : "1", "time" : "9999999999999999999999999999999999999999999999999999999999", "genres" : {  
+"*" : {"alias":"All", "title":"All Channels"}, 
+
+"2" : {"alias":"entertainments", "title":"Family Channels"}, 
+"43" : {"alias":"entertainments", "title":"Documentary Channels"},
+"3" : {"alias":"children's", "title":"Channels For Children"}, 
+"4" : {"alias":"cinema", "title":"Movies Channels"},  
+"6" : {"alias":"sports", "title":"Sports Channels"}, 
+"7" : {"alias":"music", "title":"Music Channels"}, 
+"14" : {"alias":"PPV", "title":"Pay Per View Channels"},
+"100" : {"alias":"country", "title":"International Channels"},
+"16" : {"alias":"PPV", "title":"UK Channels"},
+"105" : {"alias":"PPV", "title":"Latin American Channels"},
+"106" : {"alias":"canadian", "title":"Canadian Channels"},
+"55" : {"alias":"USA", "title":"USA Channels"},
+"103" : {"alias":"PPV", "title":"Spanish Channels"}
+}}
