@@ -24,7 +24,7 @@
 
 
 "759": {"number":"78", "name":"ITV","cmd":" http://198.179.30.108/live/11.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef6fc810746a1668c5bd7da97dedb215df8d622039d36f4ce323efe9485cdb7f7cda649624ebd30486e01a5a2a12be1ee95db405f8cbf2da1b37e38cdbbe473e6c2258f77e787d8ced9063dfc2849ac2ce1e2275d85b34ff2dacf2a758b66062da2557fd4b8096eac8982a5267b5c1276e4175f11467ef9c794bc29293cb05fabe311c6b4af79d9e59db96aeefd4404de", "logo":"759.png", "tmp":"0", "genre_id":"16", "genre_title":"information"}, 
-"243": {"number":"79", "name":"ITV 2", "cmd":"ffrt2 http://localhost/ch/487", "logo":"243.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
+"243": {"number":"79", "name":"ITV 2", "cmd":"ffrt2 http://198.179.30.108/live/67.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7e22294d4798c65ed61e4ae409ce828ce4af31254ec2a71010c634245e1214b1f33f1275e1b41e2f5a669b6c9fab9ee5a30a5be7330ace6a66ee19b6e3e504b11cafd534223a73608d5ac2982d97f66a7e3e42d7faec9f1dfac67284c8dce76ac02d41bcb098f889add19e7acb8749fdff39bf9650ac71e54525a2eff9507d1ed3769780aa2b1399db19de60c8b71e50", "logo":"243.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1399": {"number":"80", "name":"ITV 3", "cmd":"ffrt2 http://localhost/ch/2835", "logo":"1399.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1401": {"number":"81", "name":"ITV 4", "cmd":"ffrt2 http://localhost/ch/2837", "logo":"1401.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1403": {"number":"82", "name":"TG 4", "cmd":"ffrt2 http://localhost/ch/2839", "logo":"1403.png", "tmp":"1", "genre_id":"1", "genre_title":"information"}, 
