@@ -290,7 +290,7 @@
 "851": {"number":"936", "name":"Golden Edge", "cmd":"ffrt2 http://localhost/ch/1465", "logo":"851.png", "tmp":"1", "genre_id":"4", "genre_title":"cinema"}, 
 "165": {"number":"942", "name":"Cinemax Latinoamerica", "cmd":"ffrt2 http://localhost/ch/343", "logo":"165.png", "tmp":"1", "genre_id":"105", "genre_title":"cinema"}, 
 "835": {"number":"943", "name":"SPACE", "cmd":"ffrt2 http://localhost/ch/2489", "logo":"835.png", "tmp":"1", "genre_id":"4", "genre_title":"cinema"}, 
-"229": {"number":"944", "name":"AMC", "cmd":"ffrt2 http://localhost/ch/485", "logo":"229.png", "tmp":"1", "genre_id":"55", "genre_title":"cinema"}, 
+"229": {"number":"944", "name":"AMC", "cmd":"ffrt2 http://167.114.102.27/live/i-wVzafKKkyN2xG5Ma-MQA/1452521183/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8", "logo":"229.png", "tmp":"1", "genre_id":"55", "genre_title":"cinema"}, 
 "167": {"number":"945", "name":"Studio Universal", "cmd":"ffrt2 http://localhost/ch/345", "logo":"167.png", "tmp":"1", "genre_id":"105", "genre_title":"cinema"}, 
 "225": {"number":"946", "name":"TCM America Latina", "cmd":"ffrt2 http://localhost/ch/481", "logo":"225.png", "tmp":"1", "genre_id":"105", "genre_title":"cinema"}, 
 "947": {"number":"947", "name":"I-Sat", "cmd":"ffrt2 http://localhost/ch/1703", "logo":"947.png", "tmp":"1", "genre_id":"4", "genre_title":"cinema"}, 
