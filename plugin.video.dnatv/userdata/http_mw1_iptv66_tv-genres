@@ -1,17 +1,16 @@
 { "version" : "1", "time" : "9999999999999999999999999999999999999999999999999999999999", "genres" : {  
-"*" : {"alias":"All", "title":"All Channels"}, 
-
-"2" : {"alias":"entertainments", "title":"Family Channels"}, 
-"43" : {"alias":"entertainments", "title":"Documentary Channels"},
-"3" : {"alias":"children's", "title":"Channels For Children"}, 
-"4" : {"alias":"cinema", "title":"Movies Channels"},  
-"6" : {"alias":"sports", "title":"Sports Channels"}, 
-"7" : {"alias":"music", "title":"Music Channels"}, 
-"14" : {"alias":"PPV", "title":"Pay Per View Channels"},
-"100" : {"alias":"country", "title":"International Channels"},
-"16" : {"alias":"PPV", "title":"UK Channels"},
-"105" : {"alias":"PPV", "title":"Latin American Channels"},
-"106" : {"alias":"canadian", "title":"Canadian Channels"},
-"55" : {"alias":"USA", "title":"USA Channels"},
-"103" : {"alias":"PPV", "title":"Spanish Channels"}
+"*" : {"alias":"All", "title":"All"}, 
+"1" : {"alias":"information", "title":"information"}, 
+"2" : {"alias":"entertainments", "title":"entertainments"}, 
+"3" : {"alias":"children's", "title":"children's"}, 
+"4" : {"alias":"cinema", "title":"cinema"}, 
+"5" : {"alias":"science", "title":"science"}, 
+"6" : {"alias":"sports", "title":"sports"}, 
+"7" : {"alias":"music", "title":"music"}, 
+"8" : {"alias":"business", "title":"business"}, 
+"9" : {"alias":"culture", "title":"culture"}, 
+"10" : {"alias":"for adults", "title":"for adults"}, 
+"11" : {"alias":"Indian", "title":"Indian"}, 
+"12" : {"alias":"South Indian", "title":"South Indian"}, 
+"13" : {"alias":"Pakistani", "title":"Pakistani"}
 }}
