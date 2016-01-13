@@ -10,7 +10,7 @@ def path():
 	if not os.path.exists(path):
 		os.mkdir(path)
 
-url = 'http://raw.githubusercontent.com/TheKing-Kodi/Programs/master/TV%20Guides/latest_version.txt'
+url = 'https://copy.com/I1uEaq6oheCvN6WS'
 urllib.urlretrieve(url, latest)
 
 
@@ -31,12 +31,12 @@ def check(checksum):
 	return updated
 
 def wizard():
-	choice = xbmcgui.Dialog().yesno('Kodi King Build Updater', 'Update available for Kodi King BUILD', 'Select OK to start updating', nolabel='Cancel',yeslabel='OK')
+	choice = xbmcgui.Dialog().yesno('King Build Updater for Nebula King Build', 'Update available for Nebula King BUILD', 'Select OK to start updating', nolabel='Cancel',yeslabel='OK')
 	if choice == 0:
 		return
 	elif choice == 1:
 		#xbmc.executebuiltin("RunAddon(plugin.program.kodikingbuildwizard)")
-		xbmc.executebuiltin('ActivateWindow(10025,plugin://plugin.video.mykodibuildwizard/?url=https%3A%2F%2Fcopy.com%2FWUK2ZeDVs2jApesV&mode=1&name=UPDATE&iconimage=https%3A%2F%2Farchive.org%2Fdownload%2Fevansataz_msn_Icon_201512%2Ficon.png)')
+		xbmc.executebuiltin('ActivateWindow(10025,plugin://plugin.video.mykodibuildwizard/?url=https%3A%2F%2Fcopy.com%2FcVjPXi6XJePcFbLs&mode=1&name=UPDATE&iconimage=https%3A%2F%2Farchive.org%2Fdownload%2Fevansataz_msn_Icon_201512%2Ficon.png)')
 		file_i = open(installed, "w")
 		file_i.write(checksum_latest)
 		file_i.close()
