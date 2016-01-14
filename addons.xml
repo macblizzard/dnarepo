@@ -29,7 +29,7 @@
 	</extension>
 </addon>
 
-<addon id="service.kingbuildupdate" name="[COLOR darkorange]King Build UPDATE Service[/COLOR]" version="2.3" provider-name="Team DNA">
+<addon id="service.kingbuildupdate" name="[COLOR darkorange]King Build UPDATE Service[/COLOR]" version="2.4" provider-name="Team DNA">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

@@ -10,7 +10,7 @@ def path():
 	if not os.path.exists(path):
 		os.mkdir(path)
 
-url = 'https://copy.com/I1uEaq6oheCvN6WS'
+url = 'https://ia601507.us.archive.org/24/items/latest_version/latest_version.txt'
 urllib.urlretrieve(url, latest)
 
 
