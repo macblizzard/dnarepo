@@ -105,16 +105,6 @@
 "103": {"number":"1", "name":" Everest 2015  ","cmd":" https://lh3.googleusercontent.com/UZDI-08J5hXzlBXAQwondp6mumSsbTCh6nPbGI4Yuf7qj_S-QIeZU63Z9n2uGxP2ieVSDpKfJK0mNchEs6KlRozdvLhVV6PqMY-HP25yMmKm5IPpa42vwpXOWpwev3WvzNU8NR5vTqzHOzjIcW5wEHefXLnQd8ECoQeXVKVJ84dj5wUu1dA2T5MM25l5y95MqoFZXXQ7CrVxpNTHpxrR_j_9sZk82QmS5x07x7LXXOdYX5V1yDseAemMaEiEezkmKEuyRFTrxpWmRDdkV5-uCQCB-1hrUTOFg3ukC3GqTXJK8IiR76W-3JK4ev6tFcKlhw63PL7uRJAI0IpJSgWn1f2ujmJbdm98lOFd_oGPtIA2YCUtwkv97O8cs4UCpLFmVb0V9pCBOkVwXCFptaVL0HPlmTDF2wt_3NwQN36lOPu_b4dEVwiAGhbEQPmt7KF_VKhoLmW_xe0HwWhHs_ur1Bg4iBqLiRRxaV-2WeVMfYO2NG75yYLmu6dSioTr4dbtQecoQpiPd1AICuHQpP4IYyTTFM8YNAwaKM9TG2t0TpQ%3Dm18 ", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
 "104": {"number":"1", "name":" Entourage 2015  ","cmd":" https://lh3.googleusercontent.com/1wuc5ZS7G2JvpwG_mEkaqI2GDefqYqCu5RoJPSlbCwYtd1fSnzdgO3n2tQ-2kcj54-sRzrnpaUOzWSztQKC3WIx6SnjJk3hXzzYDWIhiFgF_vaUJGQcveAJJo00VSGErnj74XSHMdw5qmjcsWCRXhwVQLLBdx5QWGj2X_tCBisNKeK1HHSI_yeqFoZvuq24XLsA3joqZEIK74FZUYner8xtahAyWr-B5m7ncSjr7Jf56aP4Axt-PpCzWLHVAzf5xNzTtaexwZB3tsbJ-U4h7yLVAUycoTXbZQVJxrfVwFcIIqyC6V98G7gTWBDElYyHHEOZWzuQwvA6LF1AuCpYdSdnNy55KvqOaJ-YjpGRozZfPLSJxpEujSoWP1rhOXoRI4QgKQZDO7jUeWAxzbQ88HLOqI804gimkQzK-gD9AcfokScUQnV4tG2Fk9xiXBe5vEfvDsBksm2_bN3WSur6EKz0JaiArmJunOXKCxH4xyfyE2nfQ0GeUVxmfmJCqSIU1wPuBfXrxm0k_HYz_e4xjkKicxu9B-OpxQX9hyBo9BW4%3Dm22 ", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
 "105": {"number":"1", "name":" Dope 2015  ","cmd":" https://lh3.googleusercontent.com/KfvF10-BzweJIR6kC5Q0scMSWAWN6ppcIfjSNlb30w%3Dm22 ", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
-
-
-
-
-
-
-
-
-
-
 "2722": {"number":"424", "name":"Fox Sports Southwest", "cmd":"ffrt2 http://stealthprivate2.com/ch/6997", "logo":"2722.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
 "881003": {"number":"9013441", "name":"Liverpool FC TV","cmd":"http://portal.rapidiptv.com:8080/live/KZac0XQqSS/Pd4QpTmCIl/3568.ts", "logo":"", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
 "177303": {"number":"9013441", "name":"Sky Sports News HD","cmd":"http://portal.rapidiptv.com:8080/live/KZac0XQqSS/Pd4QpTmCIl/1954.ts", "logo":"", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
@@ -535,14 +525,14 @@
 "269": {"number":"407", "name":"MUTV","cmd":"  http://stealthprivate2.com/ch/555", "logo":"269.png", "tmp":"1", "genre_id":"6", "genre_title":"information"}, 
 "1211": {"number":"408", "name":"MSG","cmd":"  http://stealthprivate2.com/ch/2351", "logo":"1211.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
 "781": {"number":"409", "name":"BOXnation","cmd":"  http://stealthprivate2.com/ch/2449", "logo":"781.png", "tmp":"1", "genre_id":"6", "genre_title":"information"}, 
-"1269": {"number":"410", "name":"SKY Sports 1 HD","cmd":" http://80.243.189.26:8081/sportshd/sky1/index.m3u8", "logo":"1269.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
-"1271": {"number":"411", "name":"SKY Sports 2 HD","cmd":" http://80.243.189.26:8081/sportshd/sky2/index.m3u8", "logo":"1271.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
-"1273": {"number":"412", "name":"SKY Sports 3 HD","cmd":" http://80.243.189.26:8081/sportshd/sky3/index.m3u8", "logo":"1273.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
-"1275": {"number":"413", "name":"SKY Sports 4 HD","cmd":" http://80.243.189.26:8081/sportshd/sky4/index.m3u8", "logo":"1275.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
-"1277": {"number":"414", "name":"SKY Sports 5 HD","cmd":" http://80.243.189.26:8081/sportshd/sky4/index.m3u8", "logo":"1277.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
-"1267": {"number":"415", "name":"SKY Sports F1","cmd":"  http://stealthprivate2.com/ch/2457", "logo":"1267.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
-"1287": {"number":"416", "name":"BT Sport 1","cmd":"http://80.243.189.26:8081/sportshd/bt1/index.m3u8", "logo":"1287.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
-"1289": {"number":"417", "name":"BT Sport 2","cmd":"http://80.243.189.26:8081/sportshd/bt2/index.m3u8", "logo":"1289.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
+"1269": {"number":"410", "name":"SKY Sports 1", "cmd":" http://stealthprivate2.com/ch/2459", "logo":"1269.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1271": {"number":"411", "name":"SKY Sports 2", "cmd":" http://stealthprivate2.com/ch/2461", "logo":"1271.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1273": {"number":"412", "name":"SKY Sports 3", "cmd":" http://stealthprivate2.com/ch/2469", "logo":"1273.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1275": {"number":"413", "name":"SKY Sports 4", "cmd":" http://stealthprivate2.com/ch/2465", "logo":"1275.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1277": {"number":"414", "name":"SKY Sports 5", "cmd":" http://stealthprivate2.com/ch/2467", "logo":"1277.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1267": {"number":"415", "name":"SKY Sports F1", "cmd":" http://stealthprivate2.com/ch/2457", "logo":"1267.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1287": {"number":"416", "name":"BT Sport 1", "cmd":" http://stealthprivate2.com/ch/2479", "logo":"1287.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
+"1289": {"number":"417", "name":"BT Sport 2", "cmd":" http://stealthprivate2.com/ch/2481", "logo":"1289.png", "tmp":"1", "genre_id":"6", "genre_title":"sports"}, 
 "08461": {"number":"417", "name":"CTH Stadium 1 HD","cmd":" http://213.136.90.30:8000/live/christop/christop/9451.ts", "logo":"1289.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
 "061623": {"number":"417", "name":"CTH Stadium 2 HD","cmd":" http://213.136.90.30:8000/live/christop/christop/9450.ts", "logo":"1289.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
 "0413": {"number":"417", "name":"CTH Stadium 3 HD","cmd":" http://213.136.90.30:8000/live/christop/christop/9449.ts", "logo":"1289.png", "tmp":"0", "genre_id":"6", "genre_title":"sports"}, 
