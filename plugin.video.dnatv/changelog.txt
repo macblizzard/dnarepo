@@ -1,3 +1,6 @@
+2.0.5
+Multi-click fix
+
 2.0.4
 Added One Click Launch of DNA TV GUIDE
 Added DNA TV Clear Cache
