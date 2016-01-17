@@ -143,19 +143,4 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.KhmerLivewizard" name="KhmerLive Wizard" version="1.0.1" provider-name="Johnny Sour">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">KhmerLivewizard</summary>
-    <description lang="en">Easy Install With KODI / XBMC Wizard / ##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
-##Credit To Husham for his support and friendship##</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 </addons>
