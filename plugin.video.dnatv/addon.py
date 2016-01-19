@@ -351,6 +351,17 @@ def channelLevel():
 		
 		xbmcplugin.endOfDirectory(addon_handle) 
 
+		
+def pain():
+	__addon__ = xbmcaddon.Addon()
+	__addonname__ = __addon__.getAddonInfo('name')
+ 
+	line1 = "Server Overloaded"
+	line2 = "Please try again..."
+ 
+	xbmcgui.Dialog().ok(__addonname__, line1, line2)
+
+
 def playLevel():
 	
 	dp = xbmcgui.DialogProgressBG() 
@@ -370,8 +381,8 @@ def playLevel():
 
 	
 	except Exception:
-		dp.close() 
-#		xbmcgui.Dialog().notification(addonname, str, xbmcgui.NOTIFICATION_ERROR) 
+		dp.close()
+		pain()
 		return 
 
 	
