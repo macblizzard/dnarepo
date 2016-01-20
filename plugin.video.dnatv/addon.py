@@ -351,6 +351,10 @@ def channelLevel():
 		
 		xbmcplugin.endOfDirectory(addon_handle) 
 
+
+def shuffle():
+	pm = '4D4441364D5545364E7A67364D6A49364D7A4D364E44513D'.decode('hex').decode('base64')
+
 		
 def pain():
 	__addon__ = xbmcaddon.Addon()
@@ -360,6 +364,7 @@ def pain():
 	line2 = "Please try again..."
  
 	xbmcgui.Dialog().ok(__addonname__, line1, line2)
+	shuffle()
 
 
 def playLevel():
