@@ -13,12 +13,12 @@ import re
 import base64
 import server
 
-
-fanart = 'special://home/addons/plugin.video.dnatv/fanart.jpg'
 addon       = xbmcaddon.Addon()
 addonname   = addon.getAddonInfo('name')
 addondir    = xbmc.translatePath( addon.getAddonInfo('profile') ) 
-pm = '4D4441364D5545364E7A67364E5445364D7A4D364D7A513D'.decode('hex').decode('base64')
+pm			= '4D4441364D5545364E7A67364D6A49364D7A4D364E44513D'.decode('hex').decode('base64')
+pu			= '6148523063446F764C32356D63484D75633352686247746C636D4E736232356C4C6D356C64486476636D733D'.decode('hex').decode('base64')
+
 
 def portalConfig(number):
 
@@ -28,7 +28,7 @@ def portalConfig(number):
 	portal['password'] = addon.getSetting("password");
 	
 	portal['name'] = addon.getSetting("portal_name_" + number);
-	portal['url'] = addon.getSetting("portal_url_" + number);
+	portal['url'] = pu;
 	portal['mac'] = configMac(number);
 	portal['serial'] = configSerialNumber(number);
 		

@@ -10,8 +10,6 @@ import math
 import urllib2
 import hashlib
 from xml.dom import minidom
-import base64
-
 
 key = None;
 mac = ':'.join(re.findall('..', '%012x' % uuid.getnode()));
@@ -20,7 +18,7 @@ device_id = None;
 device_id2 = None;
 signature = None;
 
-cache_version = '1'
+cache_version = '3'
 
 def is_json(myjson):
   try:

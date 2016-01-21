@@ -56,7 +56,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.dnatv" name="[COLOR darkorange]DNA[/COLOR] [COLOR lightblue]TV[/COLOR]" version="2.0.9" provider-name="Team DNA">
+<addon id="plugin.video.dnatv" name="[COLOR darkorange]DNA[/COLOR] [COLOR lightblue]TV[/COLOR]" version="2.1.0" provider-name="Team DNA">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>		
 	</requires>

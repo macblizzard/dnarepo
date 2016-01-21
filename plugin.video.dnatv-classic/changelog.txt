@@ -1,6 +1,3 @@
-2.1.0
-Major Update
-
 2.0.9
 Code Cleanup
 
