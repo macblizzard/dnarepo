@@ -112,8 +112,7 @@
     <setting id="server_port" value="8899" />
     <setting id="signature_1" value="" />
     
-	<setting label="DEV MODE - Keep this OFF" type="bool" id="dev_mode" default=""/>
-	<setting label="Custom Cache URL" type="text" id="cache_url" option="visible" default=""/>
+
     
     
     
