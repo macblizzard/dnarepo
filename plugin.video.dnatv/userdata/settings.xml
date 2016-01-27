@@ -8,7 +8,6 @@
     <setting id="password" value="1234" />
     <setting id="playback_auto_sd" value="false" />
     <setting id="playback_quality" value="0" />
-	<setting id="dev_mode" default="false"/>
    
     <setting id="resume_playback" value="false" />
     <setting id="send_serial_1" value="true" />
@@ -17,7 +16,6 @@
     <setting id="server_port" value="8899" />
     <setting id="signature_1" value="" />
     <setting id="playback_quality" value="0" />
-	<setting id="dev_mode" default="false"/>
 
     <setting id="resume_playback" value="false" />
     <setting id="send_serial_1" value="true" />
