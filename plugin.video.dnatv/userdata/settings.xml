@@ -8,6 +8,7 @@
     <setting id="password" value="1234" />
     <setting id="playback_auto_sd" value="false" />
     <setting id="playback_quality" value="0" />
+	<setting id="dev_mode" default="false"/>
    
     <setting id="resume_playback" value="false" />
     <setting id="send_serial_1" value="true" />
@@ -16,6 +17,7 @@
     <setting id="server_port" value="8899" />
     <setting id="signature_1" value="" />
     <setting id="playback_quality" value="0" />
+	<setting id="dev_mode" default="false"/>
 
     <setting id="resume_playback" value="false" />
     <setting id="send_serial_1" value="true" />
@@ -725,8 +727,7 @@
     
     
 
-    <setting id="dev_mode" default=""/>
-	<setting id="cache_url" option="visible" default=""/>
+    
     <setting id="portal_name_1" value="DNA TV"/>
     <setting id="portal_url_1" value="http://mw1.iptv66.tv" />
     <setting id="portal_mac_1" value="00:1A:78:06:06:06" />
