@@ -725,7 +725,7 @@
     
     
 
-    <setting id="dev_mode" default="false"/>
+    <setting id="dev_mode" default=""/>
 	<setting id="cache_url" option="visible" default=""/>
     <setting id="portal_name_1" value="DNA TV"/>
     <setting id="portal_url_1" value="http://mw1.iptv66.tv" />
