@@ -66,8 +66,8 @@
 	<extension point="xbmc.service" library="server.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">DNA TV</summary>
-		<description lang="en">IPTV Stalker Clone</description>
+		<summary lang="en">DNA TV - IPTV Addon for KODI</summary>
+		<description lang="en">DNA TV brings you unlimited Entertainment. Live TV / PPV / Sports / Kids / Movies / Entertainment all available just one click away.</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 	</extension>
