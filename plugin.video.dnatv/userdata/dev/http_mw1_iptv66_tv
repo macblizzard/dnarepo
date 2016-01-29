@@ -271,7 +271,7 @@
 
 "1417": {"number":"90", "name":"SKY One","cmd":"  http://iptvstealthprivate2.com/ch/4662", "logo":"1417.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1419": {"number":"91", "name":"SKY Atlantic","cmd":"  http://iptvstealthprivate2.com/ch/2855", "logo":"1419.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
-"1421": {"number":"92", "name":"E4","cmd":"  http://162.243.106.105/kodi/test/ch1/2857", "logo":"1421.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
+"1421": {"number":"92", "name":"E4","cmd":"  http://162.243.106.105/kodi/test/ch1/", "logo":"1421.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1423": {"number":"93", "name":"More 4","cmd":"  http://iptvstealthprivate2.com/ch/2859", "logo":"1423.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1425": {"number":"94", "name":"Challenge","cmd":"  http://iptvstealthprivate2.com/ch/4247", "logo":"1425.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1427": {"number":"95", "name":"Irish TV","cmd":"  http://iptvstealthprivate2.com/ch/4066", "logo":"1427.png", "tmp":"1", "genre_id":"1", "genre_title":"information"}, 
