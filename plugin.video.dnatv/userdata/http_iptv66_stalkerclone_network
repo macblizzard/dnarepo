@@ -279,7 +279,7 @@
 "1429": {"number":"97", "name":"5 Star","cmd":"  http://iptvstealthprivate2.com/ch/2865", "logo":"1429.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "777": {"number":"98", "name":"RTE ONE","cmd":"  http://iptvstealthprivate2.com/ch/2441", "logo":"777.png", "tmp":"1", "genre_id":"55", "genre_title":"information"}, 
 "779": {"number":"99", "name":"RTE TWO","cmd":"  http://iptvstealthprivate2.com/ch/2439", "logo":"779.png", "tmp":"1", "genre_id":"55", "genre_title":"information"}, 
-"801": {"number":"100", "name":"BBC ONE", "cmd":" http://iptvstealthprivate2.com/ch/2443", "logo":"BBC%20ONE.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
+"801": {"number":"100", "name":"BBC ONE", "cmd":" http://iptvstealthprivate2.com/ch/2443", "logo":"801.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1263": {"number":"101", "name":"BBC TWO", "cmd":" http://iptvstealthprivate2.com/ch/2445", "logo":"1263.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1433": {"number":"102", "name":"BBC Three", "cmd":" http://iptvstealthprivate2.com/ch/2869", "logo":"1433.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1435": {"number":"103", "name":"BBC Four", "cmd":" http://iptvstealthprivate2.com/ch/2871", "logo":"1435.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
