@@ -8,9 +8,9 @@
 "4" : {"alias":"cinema", "title":"Movie Channels"},  
 "6" : {"alias":"sports", "title":"Exclusive Sports Channels"}, 
 "68" : {"alias":"for adults", "title":"Adult Entertainment (Password Protected)"}, 
-"64" : {"alias":"amx", "title":"## New Channels ##"}, 
+"64" : {"alias":"amx", "title":"DJ Fletch Music Mixes"}, 
 
-"100" : {"alias":"country", "title":"Mixed Indian / Pakistani Channels"},
+"100" : {"alias":"country", "title":"Mixed Internation Channels"},
 
 "48" : {"alias":"PPV", "title":"Movies On Demand"},
 
