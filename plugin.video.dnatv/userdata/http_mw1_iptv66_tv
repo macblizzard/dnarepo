@@ -262,7 +262,7 @@
 "1401": {"number":"81", "name":"ITV 4", "cmd":" http://iptvstealthprivate2.com/ch/2837", "logo":"1401.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1403": {"number":"82", "name":"TG 4","cmd":"  http://iptvstealthprivate2.com/ch/2839", "logo":"1403.png", "tmp":"1", "genre_id":"1", "genre_title":"information"}, 
 "1600": {"number":"83", "name":"4 Seven","cmd":"  http://iptvstealthprivate2.com/ch/4270", "logo":"1600.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
-"1405": {"number":"84", "name":"Channel 4 HD", "cmd":" http://62.65.140.149/session/5f4ad962-cb9e-11e5-a15b-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=c584c866755d1a4d407e6c12e1070704_1454718076_1454718076&p=127|X-Forwarded-For=85.4.78.100", "logo":"1405.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
+"1405": {"number":"84", "name":"Channel 4 HD", "cmd":" http://62.65.140.149/session/5f4ad962-cb9e-11e5-a15b-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=c584c866755d1a4d407e6c12e1070704_1454718076_1454718076&p=127|X-Forwarded-For=85.4.78.100", "logo":"1405.png", "tmp":"0", "genre_id":"16", "genre_title":"information"}, 
 "1407": {"number":"85", "name":"Channel 5", "cmd":"ffrt2 http://iptvstealthprivate2/ch/2843", "logo":"1407.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1409": {"number":"86", "name":"SKY Living","cmd":"  http://iptvstealthprivate2.com/ch/2845", "logo":"1409.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
 "1411": {"number":"87", "name":"Watch","cmd":"  http://iptvstealthprivate2.com/ch/2847", "logo":"1411.png", "tmp":"1", "genre_id":"16", "genre_title":"information"}, 
