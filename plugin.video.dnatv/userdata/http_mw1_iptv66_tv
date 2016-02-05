@@ -349,7 +349,7 @@
 "15356684": {"number":"867781713", "name":"Fox 1 1080p","cmd":" http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?=%2F.ts", "logo":"", "tmp":"0", "genre_id":"4", "genre_title":"information"}, 
 
 "185098512": {"number":"16210039", "name":"ToonArmi Aftermath","cmd":" http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8", "logo":"1852.png", "tmp":"0", "genre_id":"3", "genre_title":"children's"}, 
-"179952": {"number":"161029", "name":"Disney Jr","cmd":" http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=196&lan=2&rows=40&f=.m3u8", "logo":"Disney%20Jr.png", "tmp":"0", "genre_id":"3", "genre_title":"children's"}, 
+"179952": {"number":"161029", "name":"Disney Jr","cmd":" http://iptvstealthprivate2.com/ch/4852", "logo":"disneyjr.png", "tmp":"0", "genre_id":"3", "genre_title":"children's"}, 
 "1852": {"number":"169", "name":"Nick Jr","cmd":"ffrt2 http://cdn.step-tv.com:8000/live/nadal/nadal/288.ts", "logo":"1852.png", "tmp":"0", "genre_id":"3", "genre_title":"children's"}, 
 "185022": {"number":"169", "name":"Baby TV USA","cmd":" http://media-future.eu:80/live/ZeLjkO@17891/xz@jAx17891/171.ts", "logo":"1852.png", "tmp":"0", "genre_id":"3", "genre_title":"children's"}, 
 
