@@ -966,7 +966,7 @@
 "99999223": {"number":"412312368", "name":"AXN Black","cmd":" http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8", "logo":"axnblack.png", "tmp":"0", "genre_id":"64", "genre_title":"music"}, 
 "99999224": {"number":"412312368", "name":"Disney Junior","cmd":" http://178.21.120.198:1935/live3/_definst_/mp4:disneyjr/playlist.m3u8", "logo":"disneyjr.png", "tmp":"0", "genre_id":"64", "genre_title":"music"}, 
 "99999225": {"number":"412312368", "name":"The Martian 4k","cmd":" https://onedrive.live.com/download?resid=584AAD21BA3FA05B!107&authkey=!AJtUAzylLpNMRwA&ithint=video%2cmp4", "logo":"themartian.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99999226": {"number":"412312368", "name":"Blank","cmd":" ", "logo":"", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
+"99999226": {"number":"412312368", "name":"Edge of Tomorrow 4K","cmd":" https://onedrive.live.com/download?resid=8E5C0844BA8AE4AC!107&authkey=!ABdmTPASanZ0YWQ&ithint=video%2cmp4", "logo":"edgeoftomorrow.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
 "99999227": {"number":"412312368", "name":"Blank","cmd":" ", "logo":"", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
 "99999228": {"number":"412312368", "name":"Blank","cmd":" ", "logo":"", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
 "99999229": {"number":"412312368", "name":"Blank","cmd":" ", "logo":"", "tmp":"0", "genre_id":"65", "genre_title":"music"}
