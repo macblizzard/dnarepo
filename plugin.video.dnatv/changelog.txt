@@ -1,3 +1,6 @@
+2.2.3
+Code Cleanup
+
 2.2.2
 Logo Source Updated
 
