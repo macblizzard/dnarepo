@@ -15,9 +15,7 @@
 "100" : {"alias":"country", "title":"Indian & Pakistani Channels"},
 
 "48" : {"alias":"PPV", "title":"Movies On Demand"},
-
-
-
+"45" : {"alias":"PPV", "title":"Kids Movies On Demand"},
 "16" : {"alias":"PPV", "title":"UK Channels"},
 "105" : {"alias":"PPV", "title":"Spanish Channels"},
 "55" : {"alias":"USA", "title":"USA Channels"}
