@@ -8,11 +8,11 @@
 "4" : {"alias":"cinema", "title":"Movie Channels"},  
 "6" : {"alias":"sports", "title":"Sports Channels"}, 
 "68" : {"alias":"for adults", "title":"Adult Entertainment (Password Protected)"}, 
-"64" : {"alias":"amx", "title":"## New Channels ##"}, 
-"65" : {"alias":"amx", "title":"## On Demand 4K ##"}, 
+"64" : {"alias":"amx", "title":"## TEST Channels ##"}, 
 "66" : {"alias":"amx", "title":"Bangla Channels"}, 
 "67" : {"alias":"amx", "title":"Marvel's Daredevil Season 1 4K"}, 
-"69" : {"alias":"amx", "title":"Live Dj Mixes By KrAz"}, 
+"15" : {"alias":"amx", "title":"### On Demand 4K ###"}, 
+"70" : {"alias":"amx", "title":"Live Dj Mixes By KrAz"}, 
 
 "100" : {"alias":"country", "title":"Indian & Pakistani Channels"},
 

@@ -105,6 +105,7 @@
 "103": {"number":"1", "name":" Everest 2015  ","cmd":" https://lh3.googleusercontent.com/UZDI-08J5hXzlBXAQwondp6mumSsbTCh6nPbGI4Yuf7qj_S-QIeZU63Z9n2uGxP2ieVSDpKfJK0mNchEs6KlRozdvLhVV6PqMY-HP25yMmKm5IPpa42vwpXOWpwev3WvzNU8NR5vTqzHOzjIcW5wEHefXLnQd8ECoQeXVKVJ84dj5wUu1dA2T5MM25l5y95MqoFZXXQ7CrVxpNTHpxrR_j_9sZk82QmS5x07x7LXXOdYX5V1yDseAemMaEiEezkmKEuyRFTrxpWmRDdkV5-uCQCB-1hrUTOFg3ukC3GqTXJK8IiR76W-3JK4ev6tFcKlhw63PL7uRJAI0IpJSgWn1f2ujmJbdm98lOFd_oGPtIA2YCUtwkv97O8cs4UCpLFmVb0V9pCBOkVwXCFptaVL0HPlmTDF2wt_3NwQN36lOPu_b4dEVwiAGhbEQPmt7KF_VKhoLmW_xe0HwWhHs_ur1Bg4iBqLiRRxaV-2WeVMfYO2NG75yYLmu6dSioTr4dbtQecoQpiPd1AICuHQpP4IYyTTFM8YNAwaKM9TG2t0TpQ%3Dm18 ", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
 "104": {"number":"1", "name":" Entourage 2015  ","cmd":" https://lh3.googleusercontent.com/1wuc5ZS7G2JvpwG_mEkaqI2GDefqYqCu5RoJPSlbCwYtd1fSnzdgO3n2tQ-2kcj54-sRzrnpaUOzWSztQKC3WIx6SnjJk3hXzzYDWIhiFgF_vaUJGQcveAJJo00VSGErnj74XSHMdw5qmjcsWCRXhwVQLLBdx5QWGj2X_tCBisNKeK1HHSI_yeqFoZvuq24XLsA3joqZEIK74FZUYner8xtahAyWr-B5m7ncSjr7Jf56aP4Axt-PpCzWLHVAzf5xNzTtaexwZB3tsbJ-U4h7yLVAUycoTXbZQVJxrfVwFcIIqyC6V98G7gTWBDElYyHHEOZWzuQwvA6LF1AuCpYdSdnNy55KvqOaJ-YjpGRozZfPLSJxpEujSoWP1rhOXoRI4QgKQZDO7jUeWAxzbQ88HLOqI804gimkQzK-gD9AcfokScUQnV4tG2Fk9xiXBe5vEfvDsBksm2_bN3WSur6EKz0JaiArmJunOXKCxH4xyfyE2nfQ0GeUVxmfmJCqSIU1wPuBfXrxm0k_HYz_e4xjkKicxu9B-OpxQX9hyBo9BW4%3Dm22 ", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
 "105": {"number":"1", "name":" Dope 2015  ","cmd":" https://lh3.googleusercontent.com/KfvF10-BzweJIR6kC5Q0scMSWAWN6ppcIfjSNlb30w%3Dm22 ", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
+"106": {"number":"1", "name":" Zoolander 2 ","cmd":" http://avideos.5min.com/862/5189862/518986182_8.mp4", "logo":"", "tmp":"0", "genre_id":"48", "genre_title":"sports"}, 
 
 
 "2201": {"number":"1", "name":"101 DALMATIANS ","cmd":" http://bit.ly/1Pqs0aL", "logo":"", "tmp":"0", "genre_id":"45", "genre_title":"sports"}, 
@@ -244,9 +245,9 @@
 "366120": {"number":"122", "name":"Syfy","cmd":"  http://iptvstealthprivate2.com/ch/9350", "logo":"3120.png", "tmp":"1", "genre_id":"55", "genre_title":"information"}, 
 "920031": {"number":"8103551", "name":"Universal Channel HD 1080p","cmd":" http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts", "logo":"3205.png", "tmp":"0", "genre_id":"55", "genre_title":"information"}, 
 "9112993391": {"number":"8300013481", "name":"Bet","cmd":" http://128.104.128.176:8080/udp/239.1.1.96:3096", "logo":"3205.png", "tmp":"0", "genre_id":"55", "genre_title":"information"}, 
-"001191": {"number":"1100331", "name":"COMING SOON","cmd":" ", "logo":"3205.png", "tmp":"0", "genre_id":"8", "genre_title":"information"}, 
-"90231": {"number":"00731", "name":"Zoolander 2 ","cmd":" http://avideos.5min.com/862/5189862/518986182_8.mp4", "logo":"437.png", "tmp":"0", "genre_id":"15", "genre_title":"sports"}, 
-"90233": {"number":"00131", "name":"Spectre ","cmd":" http://www.imdb.com/video/imdb/vi704556569/?ref_=tt_ov_vi", "logo":"437.png", "tmp":"0", "genre_id":"15", "genre_title":"sports"}, 
+
+
+
 "56763443": {"number":"1238508", "name":"Lifetime East","cmd":" auto http://iptvstealthprivate2.com/ch/2581", "logo":"543.png", "tmp":"1", "genre_id":"55", "genre_title":"entertainments"}, 
 "3874240": {"number":"1096259", "name":"Lifetime Movie Network East","cmd":"  http://iptvstealthprivate2.com/ch/9265", "logo":"3240.png", "tmp":"1", "genre_id":"4", "genre_title":"information"}, 
 "774991": {"number":"1099936", "name":"TV Land","cmd":"  http://iptvstealthprivate2.com/ch/9355", "logo":"3117.png", "tmp":"1", "genre_id":"55", "genre_title":"information"}, 
@@ -1001,13 +1002,13 @@
 
 
 
-"52317722": {"number":"2009968", "name":"KrAz - Jack Dat Beat","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/Kraz-JackDatBeat.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
-"566321722": {"number":"2145558", "name":"KrAz - psylence","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/Kraz-Psylence.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
-"511988422": {"number":"00011318", "name":"KrAz - Salty","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/Kraz-Salty.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
-"56641002": {"number":"10018698", "name":"kraz-in-the-mix","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-in-the-mix.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
-"111331992": {"number":"111368", "name":"kraz-live-11 ","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-live-11.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
-"99913332": {"number":"412312368", "name":"kraz-live-13 ","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-live-13.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
-"95712342": {"number":"663646338", "name":"kraz-live-14","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-live-14.mp3", "logo":"523.png", "tmp":"0", "genre_id":"69", "genre_title":"music"}, 
+"52317722": {"number":"2009968", "name":"KrAz - Jack Dat Beat","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/Kraz-JackDatBeat.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
+"566321722": {"number":"2145558", "name":"KrAz - psylence","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/Kraz-Psylence.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
+"511988422": {"number":"00011318", "name":"KrAz - Salty","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/Kraz-Salty.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
+"56641002": {"number":"10018698", "name":"kraz-in-the-mix","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-in-the-mix.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
+"111331992": {"number":"111368", "name":"kraz-live-11 ","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-live-11.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
+"99913332": {"number":"412312368", "name":"kraz-live-13 ","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-live-13.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
+"95712342": {"number":"663646338", "name":"kraz-live-14","cmd":" http://archive.org/download/KrAzKeepItPoppin_201601/kraz-live-14.mp3", "logo":"523.png", "tmp":"0", "genre_id":"70", "genre_title":"music"}, 
 
 
 
@@ -1040,19 +1041,19 @@
 
 
 
-"99997001": {"number":"412312368", "name":"Curvature of Earth 4K","cmd":" https://onedrive.live.com/download?resid=4581CA2B6F628349!2303&authkey=!AEgoucc2SllmlD8&ithint=video%2cmp4", "logo":"", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997002": {"number":"412312368", "name":"Eye of the Storm 4K","cmd":" https://onedrive.live.com/download?resid=4581CA2B6F628349!2304&authkey=!AFjhLHqQxSMo7x0&ithint=video%2cmp4", "logo":"", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997003": {"number":"412312368", "name":"Life of Pi 4K","cmd":" https://onedrive.live.com/download?resid=44762F76D7CD2C75!109&authkey=!AGt2gk0o5YewDJw&ithint=file%2cmkv", "logo":"lifeofpi.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997004": {"number":"412312368", "name":"The Fifth Element 4K","cmd":" https://onedrive.live.com/download?resid=44762F76D7CD2C75!110&authkey=!AKTqNIg0qbtNORo&ithint=file%2cmkv", "logo":"5thelement.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997005": {"number":"412312368", "name":"The Imitation Game 4K","cmd":" https://onedrive.live.com/download?resid=F751A62A0A074128!107&authkey=!AOeMK3LoJX5Ed6I&ithint=video%2cmp4", "logo":"imitationgame.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997006": {"number":"412312368", "name":"Timescapes 4k","cmd":" https://onedrive.live.com/download?resid=95658B45F534366B!106&authkey=!ALY0rEIWeLOtg-4&ithint=video%2cmp4", "logo":"timescape.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997007": {"number":"412312368", "name":"Sintel 4K","cmd":" https://onedrive.live.com/download?resid=95658B45F534366B!107&authkey=!ADFpJ9jBvQkhY9s&ithint=video%2cmp4", "logo":"sintel.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997008": {"number":"412312368", "name":"The Martian 4k","cmd":" https://onedrive.live.com/download?resid=584AAD21BA3FA05B!107&authkey=!AJtUAzylLpNMRwA&ithint=video%2cmp4", "logo":"themartian.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997009": {"number":"412312368", "name":"Edge of Tomorrow 4K","cmd":" https://onedrive.live.com/download?resid=8E5C0844BA8AE4AC!107&authkey=!ABdmTPASanZ0YWQ&ithint=video%2cmp4", "logo":"edgeoftomorrow.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997010": {"number":"412312368", "name":"Finding Nemo 4k","cmd":" https://onedrive.live.com/download?resid=E7D720E3559C4E44!109&authkey=!ADBPh7SmoHb-uGM&ithint=video%2cmp4", "logo":"findingnemo.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997011": {"number":"412312368", "name":"X-Men Days Of Future Past 4k","cmd":" https://onedrive.live.com/download?resid=4BDAB7527B732ADC!110&authkey=!ACFKIOU2a2iY1Yg&ithint=video%2cmp4", "logo":"xmen4.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997012": {"number":"412312368", "name":"Astra Ultra HD Demo","cmd":" https://onedrive.live.com/download?resid=4BDAB7527B732ADC!114&authkey=!ALjPXFDmOTnRkro&ithint=video%2cmp4", "logo":"linkinpark.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
-"99997013": {"number":"412312368", "name":"Space Cosmos Unveiled UHD","cmd":" https://onedrive.live.com/download?resid=4BDAB7527B732ADC!115&authkey=!AKzQ3IgZ38bGOXE&ithint=file%2cmkv", "logo":"space.png", "tmp":"0", "genre_id":"65", "genre_title":"music"}, 
+"99997001": {"number":"412312368", "name":"Curvature of Earth 4K","cmd":" https://onedrive.live.com/download?resid=4581CA2B6F628349!2303&authkey=!AEgoucc2SllmlD8&ithint=video%2cmp4", "logo":"", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997002": {"number":"412312368", "name":"Eye of the Storm 4K","cmd":" https://onedrive.live.com/download?resid=4581CA2B6F628349!2304&authkey=!AFjhLHqQxSMo7x0&ithint=video%2cmp4", "logo":"", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997003": {"number":"412312368", "name":"Life of Pi 4K","cmd":" https://onedrive.live.com/download?resid=44762F76D7CD2C75!109&authkey=!AGt2gk0o5YewDJw&ithint=file%2cmkv", "logo":"lifeofpi.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997004": {"number":"412312368", "name":"The Fifth Element 4K","cmd":" https://onedrive.live.com/download?resid=44762F76D7CD2C75!110&authkey=!AKTqNIg0qbtNORo&ithint=file%2cmkv", "logo":"5thelement.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997005": {"number":"412312368", "name":"The Imitation Game 4K","cmd":" https://onedrive.live.com/download?resid=F751A62A0A074128!107&authkey=!AOeMK3LoJX5Ed6I&ithint=video%2cmp4", "logo":"imitationgame.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997006": {"number":"412312368", "name":"Timescapes 4k","cmd":" https://onedrive.live.com/download?resid=95658B45F534366B!106&authkey=!ALY0rEIWeLOtg-4&ithint=video%2cmp4", "logo":"timescape.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997007": {"number":"412312368", "name":"Sintel 4K","cmd":" https://onedrive.live.com/download?resid=95658B45F534366B!107&authkey=!ADFpJ9jBvQkhY9s&ithint=video%2cmp4", "logo":"sintel.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997008": {"number":"412312368", "name":"The Martian 4k","cmd":" https://onedrive.live.com/download?resid=584AAD21BA3FA05B!107&authkey=!AJtUAzylLpNMRwA&ithint=video%2cmp4", "logo":"themartian.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997009": {"number":"412312368", "name":"Edge of Tomorrow 4K","cmd":" https://onedrive.live.com/download?resid=8E5C0844BA8AE4AC!107&authkey=!ABdmTPASanZ0YWQ&ithint=video%2cmp4", "logo":"edgeoftomorrow.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997010": {"number":"412312368", "name":"Finding Nemo 4k","cmd":" https://onedrive.live.com/download?resid=E7D720E3559C4E44!109&authkey=!ADBPh7SmoHb-uGM&ithint=video%2cmp4", "logo":"findingnemo.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997011": {"number":"412312368", "name":"X-Men Days Of Future Past 4k","cmd":" https://onedrive.live.com/download?resid=4BDAB7527B732ADC!110&authkey=!ACFKIOU2a2iY1Yg&ithint=video%2cmp4", "logo":"xmen4.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997012": {"number":"412312368", "name":"Astra Ultra HD Demo","cmd":" https://onedrive.live.com/download?resid=4BDAB7527B732ADC!114&authkey=!ALjPXFDmOTnRkro&ithint=video%2cmp4", "logo":"linkinpark.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
+"99997013": {"number":"412312368", "name":"Space Cosmos Unveiled UHD","cmd":" https://onedrive.live.com/download?resid=4BDAB7527B732ADC!115&authkey=!AKzQ3IgZ38bGOXE&ithint=file%2cmkv", "logo":"space.png", "tmp":"0", "genre_id":"15", "genre_title":"music"}, 
 
 
 
