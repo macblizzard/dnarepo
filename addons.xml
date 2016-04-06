@@ -1,36 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.dnarepo" name="[COLOR lightblue]dna[/COLOR] [COLOR lightwhite]Repository[/COLOR]" version="0.0.4" provider-name="dna">
-	<extension point="xbmc.addon.repository" name="dna Repository">
-		<info compressed="false">http://raw.github.com/macblizzard/dnarepo/master/addons.xml</info>
-		<checksum>http://raw.github.com/macblizzard/dnarepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/macblizzard/dnarepo/master</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>dna Repository</summary>
-		<description>Download and install add-ons from dna repository.</description>
-		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-
-<addon id="script.dnatvguide" name="[COLOR lightblue]dnaTV[/COLOR] [COLOR lightwhite]Guide[/COLOR]" version="0.0.50" provider-name="dna">
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">dnaTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
-		<description lang="en">dnaTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
-		<disclaimer lang="en">dnaTV Guide is based on FTV Guide by rayw1986 and Bluezed, which in turn is based on the original TV Guide addon by twinther.</disclaimer>
-		<language>en</language>
-		<platform>all</platform>
-		<license>GPLv2</license>
-		<email>dna.mailbox@gmail.com</email>
-	</extension>
-</addon>
-
-
 <addon id="plugin.video.dnatv" name="[B][I][COLOR red]DNA TV[/COLOR] [COLOR lime]PRO[/COLOR][/I][/B]" version="3.0.0" provider-name="Team DNA">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
@@ -52,5 +21,38 @@
 	</extension>
 </addon>
 
+<addon id="repository.dnarepo" name="[COLOR lightblue]dna[/COLOR] [COLOR lightwhite]Repository[/COLOR]" version="0.0.4" provider-name="dna">
+	<extension point="xbmc.addon.repository" name="dna Repository">
+		<info compressed="false">http://raw.github.com/macblizzard/dnarepo/master/addons.xml</info>
+		<checksum>http://raw.github.com/macblizzard/dnarepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/macblizzard/dnarepo/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>dna Repository</summary>
+		<description>Download and install add-ons from dna repository.</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
 
+<addon id="script.dnatvguide" name="[COLOR lightblue]dnaTV[/COLOR] [COLOR lightwhite]Guide[/COLOR]" version="0.0.50" provider-name="dna">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py"/>
+    <extension point="xbmc.service" library="service.py" start="login"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">dnaTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<description lang="en">dnaTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<disclaimer lang="en">dnaTV Guide is based on FTV Guide by rayw1986 and Bluezed, which in turn is based on the original TV Guide addon by twinther.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+	</extension>
+</addon>
 </addons>
